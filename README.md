@@ -21,7 +21,7 @@
 ### Educación
 
 *   **[Universidad Pontificia Bolivariana ]:** [Ingeniero de distemas e informatica] - [2016 - 2021]
-
+<!--
 ### Conéctate conmigo
 
 *   [![Linkedin](<https://www.linkedin.com/help/linkedin/answer/a548467/-como-creo-un-buen-perfil-de-linkedin-?lang=es>)]()
@@ -30,7 +30,6 @@
 
 ### ¡Explora mis repositorios y no dudes en contactarme!
 
-<!--
 **JhonEdinson-Shongo/JhonEdinson-Shongo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
