@@ -10,4 +10,4 @@
 *   
 ### Educación
 
-*   **[Universidad Pontificia Bolivariana ]:** [Ingeniero de distemas e informatica] - [2016 - 2021]
+*   **Universidad Pontificia Bolivariana:** Ingeniero de distemas e informatica - (2016 - 2021)
