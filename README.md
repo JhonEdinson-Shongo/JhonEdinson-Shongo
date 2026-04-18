@@ -32,5 +32,5 @@
 
 ### 📫 Conecta conmigo
 - 🌍 **Portafolio:** [jhoncastaneda.vercel.app](https://jhoncastaneda.vercel.app/)
-- 💼 **LinkedIn:** [/in/jhon-edinson](https://www.linkedin.com/in/jhon-edinson-6a78311ab/)
+- 💼 **LinkedIn:** [/in/jhon-edinson](linkedin.com/in/jhon-edinson-castañeda-oviedo-6a78311ab)
 - ✉️ **Email:** jeca010198@gmail.com
