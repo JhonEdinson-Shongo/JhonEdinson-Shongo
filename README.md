@@ -15,7 +15,7 @@ Trabajo en web y móvil, desde la interfaz hasta el despliegue. Me gusta que lo 
 
 ### 🔭 En lo que ando ahora
 
-- **Web 3D:** experimento con Three.js, shaders y animación con scroll, creando escenas hechas solo con código.
+- **Web 3D:** experimento con Three.js, shaders y animación con scroll, creando escenas hechas solo con código. Lo más reciente: convertir la cámara en partículas en tiempo real, sin salir del navegador.
 - **IA aplicada:** pruebo modelos de lenguaje y visión por computador en el navegador para ver cómo llevarlos a productos reales.
 - **C# y .NET:** estoy profundizando en ASP.NET Core MVC con un proyecto propio.
 
@@ -34,7 +34,16 @@ Trabajo en web y móvil, desde la interfaz hasta el despliegue. Me gusta que lo 
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <a href="https://jhonedinson-shongo.github.io/shongo-reflejo/">
+        <img src="https://raw.githubusercontent.com/JhonEdinson-Shongo/shongo-reflejo/main/docs/screenshots/hero.jpg" alt="La palabra reflejo escrita con partículas sobre fondo negro" />
+      </a>
+      <h4>Reflejo</h4>
+      <p>Tu cámara y tus imágenes convertidas en hasta 500.000 partículas, en tiempo real y sin que nada salga del dispositivo. Lo que se mueve frente a la cámara sopla sus propias partículas, con el filtro de la cámara corriendo en la GPU.</p>
+      <p><code>Three.js</code> <code>TypeScript</code> <code>GLSL</code> <code>Vite</code></p>
+      <p><a href="https://jhonedinson-shongo.github.io/shongo-reflejo/">Ver en vivo</a> · <a href="https://github.com/JhonEdinson-Shongo/shongo-reflejo">Código</a></p>
+    </td>
+    <td width="33%" valign="top">
       <a href="https://jhonedinson-shongo.github.io/shongo-memoria/">
         <img src="https://raw.githubusercontent.com/JhonEdinson-Shongo/shongo-memoria/main/docs/screenshots/hero.jpg" alt="Una mano humana y una robótica hechas de partículas, a punto de tocarse" />
       </a>
@@ -43,7 +52,7 @@ Trabajo en web y móvil, desde la interfaz hasta el despliegue. Me gusta que lo 
       <p><code>Three.js</code> <code>GSAP</code> <code>TypeScript</code> <code>GLSL</code></p>
       <p><a href="https://jhonedinson-shongo.github.io/shongo-memoria/">Ver en vivo</a> · <a href="https://github.com/JhonEdinson-Shongo/shongo-memoria">Código</a></p>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <a href="https://jhonedinson-shongo.github.io/web3d-lab/">
         <img src="https://raw.githubusercontent.com/JhonEdinson-Shongo/web3d-lab/main/docs/screenshots/hero.jpg" alt="Portátil 3D con el logo SHONGO" />
       </a>
@@ -72,7 +81,7 @@ Gran parte de mi trabajo está en repositorios privados y de organizaciones, as�
 | :--- | :--- |
 | **Lenguajes** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
 | **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D) ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=pinia&logoColor=black) ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square) |
-| **Web 3D y animación** | ![Three.js](https://img.shields.io/badge/Three.js-000?style=flat-square&logo=threedotjs&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-0AE448?style=flat-square&logo=greensock&logoColor=black) |
+| **Web 3D y animación** | ![Three.js](https://img.shields.io/badge/Three.js-000?style=flat-square&logo=threedotjs&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-0AE448?style=flat-square&logo=greensock&logoColor=black) ![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white) ![GLSL](https://img.shields.io/badge/GLSL-5586A4?style=flat-square&logo=opengl&logoColor=white) |
 | **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white) |
 | **Móvil** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Provider](https://img.shields.io/badge/Provider-7F52FF?style=flat-square) |
 | **Bases de datos SQL** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
