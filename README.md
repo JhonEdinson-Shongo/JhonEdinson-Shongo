@@ -16,14 +16,14 @@ Trabajo en web y móvil, desde la interfaz hasta el despliegue. Me gusta que lo 
 ### 🔭 En lo que ando ahora
 
 - **Web 3D:** experimento con Three.js, shaders y animación con scroll, creando escenas hechas solo con código. Lo más reciente: convertir la cámara en partículas en tiempo real, sin salir del navegador.
-- **IA aplicada:** pruebo modelos de lenguaje y visión por computador en el navegador para ver cómo llevarlos a productos reales.
+- **IA aplicada:** pruebo modelos de lenguaje y visión por computador en el navegador para ver cómo llevarlos a productos reales. Lo más reciente: una explicación interactiva de cómo funciona un RAG, de los fragmentos a la respuesta con cita.
 - **C# y .NET:** estoy profundizando en ASP.NET Core MVC con un proyecto propio.
 
 ---
 
 ### 💡 Lo que me interesa
 
-- **Explicar cómo funcionan las cosas de forma visual**, como la historia del almacenamiento contada con partículas.
+- **Explicar cómo funcionan las cosas de forma visual**, como la historia del almacenamiento contada con partículas o el recorrido de una pregunta dentro de un RAG.
 - **Los detalles de una interfaz:** animaciones, transiciones y esos toques que hacen que algo se sienta vivo.
 - **Rendimiento y accesibilidad**, para que una experiencia ambiciosa también funcione bien en un celular y para todo el mundo.
 - **Aprender construyendo:** casi todos mis repos empezaron como un experimento.
@@ -34,7 +34,16 @@ Trabajo en web y móvil, desde la interfaz hasta el despliegue. Me gusta que lo 
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
+      <a href="https://jhonedinson-shongo.github.io/shongo-rag/">
+        <img src="https://raw.githubusercontent.com/JhonEdinson-Shongo/shongo-rag/main/docs/screenshots/hero.jpg" alt="Portada: Cómo funciona un RAG, paso a paso" />
+      </a>
+      <h4>Cómo funciona un RAG</h4>
+      <p>Una explicación interactiva de RAG, paso a paso: ingesta, embeddings, base de datos, proximidad y respuesta con citas. Cambias el tamaño de los fragmentos, escribes tus preguntas y ves los vectores en un espacio 3D. Todo corre en el navegador, sin APIs de IA.</p>
+      <p><code>TypeScript</code> <code>Three.js</code> <code>GSAP</code> <code>Tailwind CSS</code></p>
+      <p><a href="https://jhonedinson-shongo.github.io/shongo-rag/">Ver en vivo</a> · <a href="https://github.com/JhonEdinson-Shongo/shongo-rag">Código</a></p>
+    </td>
+    <td width="50%" valign="top">
       <a href="https://jhonedinson-shongo.github.io/shongo-reflejo/">
         <img src="https://raw.githubusercontent.com/JhonEdinson-Shongo/shongo-reflejo/main/docs/screenshots/hero.jpg" alt="La palabra reflejo escrita con partículas sobre fondo negro" />
       </a>
@@ -43,7 +52,9 @@ Trabajo en web y móvil, desde la interfaz hasta el despliegue. Me gusta que lo 
       <p><code>Three.js</code> <code>TypeScript</code> <code>GLSL</code> <code>Vite</code></p>
       <p><a href="https://jhonedinson-shongo.github.io/shongo-reflejo/">Ver en vivo</a> · <a href="https://github.com/JhonEdinson-Shongo/shongo-reflejo">Código</a></p>
     </td>
-    <td width="33%" valign="top">
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <a href="https://jhonedinson-shongo.github.io/shongo-memoria/">
         <img src="https://raw.githubusercontent.com/JhonEdinson-Shongo/shongo-memoria/main/docs/screenshots/hero.jpg" alt="Una mano humana y una robótica hechas de partículas, a punto de tocarse" />
       </a>
@@ -52,7 +63,7 @@ Trabajo en web y móvil, desde la interfaz hasta el despliegue. Me gusta que lo 
       <p><code>Three.js</code> <code>GSAP</code> <code>TypeScript</code> <code>GLSL</code></p>
       <p><a href="https://jhonedinson-shongo.github.io/shongo-memoria/">Ver en vivo</a> · <a href="https://github.com/JhonEdinson-Shongo/shongo-memoria">Código</a></p>
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <a href="https://jhonedinson-shongo.github.io/web3d-lab/">
         <img src="https://raw.githubusercontent.com/JhonEdinson-Shongo/web3d-lab/main/docs/screenshots/hero.jpg" alt="Portátil 3D con el logo SHONGO" />
       </a>
